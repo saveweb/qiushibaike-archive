@@ -50,6 +50,7 @@
 ```dataholder
 @NyaMisty 网盘一份
 @yzqzss 本地一份
+@thinkingnull 本地一份
 ```
 
 ### 图片存档
@@ -59,4 +60,5 @@
 ```dataholder
 @NyaMisty 网盘一份
 @yzqzss 本地一份
+@thinkingnull 本地一份
 ```
